@@ -1,5 +1,7 @@
-package lesson2;
+package calc;
+
 import java.util.Scanner;
+import calc.benchmark;
 
 class Calc {
     public static void main(String[] args) {
